@@ -1,1 +1,4 @@
+<<<<<<< HEAD
  I am a git Wizard now! 
+=======
+>>>>>>> master
